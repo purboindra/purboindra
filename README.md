@@ -28,8 +28,8 @@
 
 ### 🔨 Projects
 
-- [**rt_rw_client**](https://github.com/purboindra/rt_rw_client) — Mobile client for RT/RW management
-- [**rt_rw_backend**](https://github.com/purboindra/rt_rw_backend) — Backend services for RT/RW applications
+- [**passkey-client**](https://github.com/purboindra/passkey-client) — Mobile client for safer auth with Passkey
+- [**passkey-server**](https://github.com/purboindra/passkey-server) — Backend services for safer auth with simplewebauthn
 
 ---
 
